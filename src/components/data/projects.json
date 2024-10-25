@@ -1,0 +1,35 @@
+[
+    {
+      "key": 1,
+      "title": "Task Manager App",
+      "imageSrc": "/assets/images/task_manager_app.png",
+      "description": "Task Manager is a PERN stack app that allows users to manage their tasks in one place.",
+      "demo": "https://task-manager-app-1-3uj5.onrender.com/",
+      "source": "https://www.github.com/phalgunigulati/task-manager-app"
+    },
+    {
+      "key": 2,
+      "title": "Daily Insider",
+      "imageSrc": "/assets/images/news.png",
+      "description": "Daily Insider is React js application where users can access latest news hands-free.",
+      "demo": "https://news-app-hj7u.onrender.com/",
+      "source": "https://www.github.com/phalgunigulati/project"
+    },
+    {
+      "key": 3,
+      "title": "Wave",
+      "imageSrc": "/assets/images/wave.png",
+      "description": "Wave is a react based music player app where users can fetch latest music and have a blast",
+      "demo": "https://music-app-1q6c.onrender.com/",
+      "source": "https://www.github.com/phalgunigulati/music-app"
+    },
+    {
+      "key": 4,
+      "title": "React Game App",
+      "imageSrc": "/assets/images/game-app.png",
+      "description": "This is a practice project made based on React js where users can play an exciting game.",
+      "demo": "https://game-app-ny3t.onrender.com",
+      "source": "https://www.github.com/phalgunigulati/game-app"
+    }
+ 
+  ]

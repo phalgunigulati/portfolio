@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "university": "Guru Gobind Singh Indraprastha University",
+        "college": "Bhagwan Parshuram Institute of Technology",
+        "degree": "Bachelor's of Technology",
+        "specialization": "Information Technology",
+        "startDate": "2020",
+        "endDate": "2024",
+        "location": "Delhi"
+      }
+]
